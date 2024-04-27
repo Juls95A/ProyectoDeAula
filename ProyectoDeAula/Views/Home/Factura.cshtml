@@ -1,0 +1,27 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+    ViewData["Title"] = "Factura";
+}
+<h1>@ViewData["Title"]</h1>
+
+@model int?
+
+<form method="post" action="/Home/CalcularPago">
+    <label for="cedula">Ingrese la cédula del cliente:</label>
+    <input type="text" id="cedula" name="cedula">
+    <button type="submit">Calcular Pago</button>
+</form>
+
+@if (ViewBag.Error != null)
+{
+    <p>@ViewBag.Error</p>
+}
+
+@if (ViewBag.ValorAPagar != null)
+{
+    <p>El valor a pagar es: @ViewBag.ValorAPagar</p>
+}

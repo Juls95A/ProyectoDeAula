@@ -1,0 +1,185 @@
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\appsettings.json
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.staticwebassets.runtime.json
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.exe
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.deps.json
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.runtimeconfig.json
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.pdb
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.AssemblyInfoInputs.cache
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.AssemblyInfo.cs
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj.CoreCompileInputs.cache
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.RazorAssemblyInfo.cache
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.RazorAssemblyInfo.cs
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.sourcelink.json
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.props
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.props
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.props
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\scopedcss\bundle\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.styles.css
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\scopedcss\projectbundle\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.bundle.scp.css
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\refint\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.pdb
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.genruntimeconfig.cache
+C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ref\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.AssemblyInfo.cs
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.RazorAssemblyInfo.cache
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.RazorAssemblyInfo.cs
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.sourcelink.json
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\refint\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.pdb
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\appsettings.json
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.staticwebassets.runtime.json
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.exe
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.deps.json
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.runtimeconfig.json
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.pdb
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.props
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.props
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.props
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\scopedcss\bundle\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.styles.css
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\scopedcss\projectbundle\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.bundle.scp.css
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.genruntimeconfig.cache
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ref\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\appsettings.json
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.staticwebassets.runtime.json
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.exe
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.deps.json
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.runtimeconfig.json
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.pdb
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.AssemblyInfoInputs.cache
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.AssemblyInfo.cs
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.RazorAssemblyInfo.cache
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.RazorAssemblyInfo.cs
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.sourcelink.json
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.props
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.props
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.props
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\scopedcss\bundle\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.styles.css
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\scopedcss\projectbundle\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.bundle.scp.css
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\refint\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.pdb
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.genruntimeconfig.cache
+C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ref\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\appsettings.json
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.staticwebassets.runtime.json
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.exe
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.deps.json
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.runtimeconfig.json
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.pdb
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.AssemblyInfo.cs
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.RazorAssemblyInfo.cache
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.RazorAssemblyInfo.cs
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.sourcelink.json
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.props
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.props
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.props
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\scopedcss\bundle\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.styles.css
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\scopedcss\projectbundle\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.bundle.scp.css
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\refint\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.pdb
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.genruntimeconfig.cache
+C:\Users\admin\Documents\Codigo Limpio\ProyectoDeAula\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ref\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\appsettings.json
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.staticwebassets.runtime.json
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.exe
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.deps.json
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.runtimeconfig.json
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.pdb
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.AssemblyInfoInputs.cache
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.AssemblyInfo.cs
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.RazorAssemblyInfo.cache
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.RazorAssemblyInfo.cs
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.sourcelink.json
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.props
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.props
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.props
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\scopedcss\bundle\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.styles.css
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\scopedcss\projectbundle\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.bundle.scp.css
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\refint\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.pdb
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.genruntimeconfig.cache
+C:\Users\acer\Downloads\ProyectoDeAula (3)\ProyectoDeAula\ProyectoDeAula\obj\Debug\net8.0\ref\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\bin\Debug\net8.0\appsettings.json
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.staticwebassets.runtime.json
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.exe
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.deps.json
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.runtimeconfig.json
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\bin\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.pdb
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.AssemblyInfo.cs
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.RazorAssemblyInfo.cache
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.RazorAssemblyInfo.cs
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.props
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.props
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.props
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net8.0\scopedcss\bundle\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.styles.css
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net8.0\scopedcss\projectbundle\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.bundle.scp.css
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net8.0\refint\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.pdb
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net8.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.genruntimeconfig.cache
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net8.0\ref\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll

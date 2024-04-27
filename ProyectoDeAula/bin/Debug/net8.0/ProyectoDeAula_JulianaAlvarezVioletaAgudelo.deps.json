@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProyectoDeAula_JulianaAlvarezVioletaAgudelo/1.0.0": {
+        "runtime": {
+          "ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProyectoDeAula_JulianaAlvarezVioletaAgudelo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
