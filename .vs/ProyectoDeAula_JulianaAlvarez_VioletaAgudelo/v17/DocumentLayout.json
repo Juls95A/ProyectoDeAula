@@ -3,6 +3,94 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\models\\entidades\\gas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\models\\entidades\\gas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\views\\home\\consumogas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\views\\home\\consumogas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\models\\entidades\\agua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\models\\entidades\\agua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\models\\entidades\\calculopagoclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\models\\entidades\\calculopagoclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\models\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\models\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\models\\entidades\\energia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\models\\entidades\\energia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\models\\entidades\\gestionclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\models\\entidades\\gestionclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\views\\home\\actualizarinformacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\views\\home\\actualizarinformacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\views\\home\\consumoagua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\views\\home\\consumoagua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\views\\home\\consumoenergia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\views\\home\\consumoenergia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\views\\home\\datos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\views\\home\\datos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\views\\home\\eliminarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\views\\home\\eliminarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\views\\home\\factura.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\views\\home\\factura.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\views\\home\\registrarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\views\\home\\registrarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\views\\home\\tablaclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\views\\home\\tablaclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1842AECE-8B68-4B78-82FE-8FC22989EE4B}|ProyectoDeAula_test\\ProyectoDeAula_test.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula_test\\agua_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1842AECE-8B68-4B78-82FE-8FC22989EE4B}|ProyectoDeAula_test\\ProyectoDeAula_test.csproj|solutionrelative:proyectodeaula_test\\agua_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1842AECE-8B68-4B78-82FE-8FC22989EE4B}|ProyectoDeAula_test\\ProyectoDeAula_test.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula_test\\calculopagocliente_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1842AECE-8B68-4B78-82FE-8FC22989EE4B}|ProyectoDeAula_test\\ProyectoDeAula_test.csproj|solutionrelative:proyectodeaula_test\\calculopagocliente_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1842AECE-8B68-4B78-82FE-8FC22989EE4B}|ProyectoDeAula_test\\ProyectoDeAula_test.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula_test\\gestionclientes_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1842AECE-8B68-4B78-82FE-8FC22989EE4B}|ProyectoDeAula_test\\ProyectoDeAula_test.csproj|solutionrelative:proyectodeaula_test\\gestionclientes_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1842AECE-8B68-4B78-82FE-8FC22989EE4B}|ProyectoDeAula_test\\ProyectoDeAula_test.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula_test\\cliente_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1842AECE-8B68-4B78-82FE-8FC22989EE4B}|ProyectoDeAula_test\\ProyectoDeAula_test.csproj|solutionrelative:proyectodeaula_test\\cliente_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1842AECE-8B68-4B78-82FE-8FC22989EE4B}|ProyectoDeAula_test\\ProyectoDeAula_test.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula_test\\energia_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1842AECE-8B68-4B78-82FE-8FC22989EE4B}|ProyectoDeAula_test\\ProyectoDeAula_test.csproj|solutionrelative:proyectodeaula_test\\energia_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,20 +102,285 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProyectoDeAula\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProyectoDeAula\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAOsAAAAAAAAAAAAowAABAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:08:03.533Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Gas.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Models\\Entidades\\Gas.cs",
+              "RelativeDocumentMoniker": "ProyectoDeAula\\Models\\Entidades\\Gas.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Models\\Entidades\\Gas.cs",
+              "RelativeToolTip": "ProyectoDeAula\\Models\\Entidades\\Gas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:07:34.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Agua.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Models\\Entidades\\Agua.cs",
+              "RelativeDocumentMoniker": "ProyectoDeAula\\Models\\Entidades\\Agua.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Models\\Entidades\\Agua.cs",
+              "RelativeToolTip": "ProyectoDeAula\\Models\\Entidades\\Agua.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAowHUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:06:58.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsumoGas.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Home\\ConsumoGas.cs",
+              "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Home\\ConsumoGas.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Home\\ConsumoGas.cs",
+              "RelativeToolTip": "ProyectoDeAula\\Views\\Home\\ConsumoGas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:02:42.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculoPagoClientes.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Models\\Entidades\\CalculoPagoClientes.cs",
+              "RelativeDocumentMoniker": "ProyectoDeAula\\Models\\Entidades\\CalculoPagoClientes.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Models\\Entidades\\CalculoPagoClientes.cs",
+              "RelativeToolTip": "ProyectoDeAula\\Models\\Entidades\\CalculoPagoClientes.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:06:42.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Models\\Entidades\\Cliente.cs",
+              "RelativeDocumentMoniker": "ProyectoDeAula\\Models\\Entidades\\Cliente.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Models\\Entidades\\Cliente.cs",
+              "RelativeToolTip": "ProyectoDeAula\\Models\\Entidades\\Cliente.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAA7wDgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:06:20.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GestionClientes.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Models\\Entidades\\GestionClientes.cs",
+              "RelativeDocumentMoniker": "ProyectoDeAula\\Models\\Entidades\\GestionClientes.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Models\\Entidades\\GestionClientes.cs",
+              "RelativeToolTip": "ProyectoDeAula\\Models\\Entidades\\GestionClientes.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwFwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:05:18.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ActualizarInformacion.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Home\\ActualizarInformacion.cshtml",
+              "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Home\\ActualizarInformacion.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Home\\ActualizarInformacion.cshtml",
+              "RelativeToolTip": "ProyectoDeAula\\Views\\Home\\ActualizarInformacion.cshtml",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAowFkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T23:04:10.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Energia.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Models\\Entidades\\Energia.cs",
+              "RelativeDocumentMoniker": "ProyectoDeAula\\Models\\Entidades\\Energia.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Models\\Entidades\\Energia.cs",
+              "RelativeToolTip": "ProyectoDeAula\\Models\\Entidades\\Energia.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAowHoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T05:06:07.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConsumoAgua.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Home\\ConsumoAgua.cshtml",
+              "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Home\\ConsumoAgua.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Home\\ConsumoAgua.cshtml",
+              "RelativeToolTip": "ProyectoDeAula\\Views\\Home\\ConsumoAgua.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowB4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T23:03:56.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConsumoEnergia.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Home\\ConsumoEnergia.cshtml",
+              "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Home\\ConsumoEnergia.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Home\\ConsumoEnergia.cshtml",
+              "RelativeToolTip": "ProyectoDeAula\\Views\\Home\\ConsumoEnergia.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowB0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T23:02:10.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Datos.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Home\\Datos.cshtml",
+              "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Home\\Datos.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Home\\Datos.cshtml",
+              "RelativeToolTip": "ProyectoDeAula\\Views\\Home\\Datos.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAmwDQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T23:01:53.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EliminarCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Home\\EliminarCliente.cshtml",
+              "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Home\\EliminarCliente.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Home\\EliminarCliente.cshtml",
+              "RelativeToolTip": "ProyectoDeAula\\Views\\Home\\EliminarCliente.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwCwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T23:01:35.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Factura.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Home\\Factura.cshtml",
+              "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Home\\Factura.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Home\\Factura.cshtml",
+              "RelativeToolTip": "ProyectoDeAula\\Views\\Home\\Factura.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T23:01:19.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegistrarCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Home\\RegistrarCliente.cshtml",
+              "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Home\\RegistrarCliente.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Home\\RegistrarCliente.cshtml",
+              "RelativeToolTip": "ProyectoDeAula\\Views\\Home\\RegistrarCliente.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAmwEUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T23:00:47.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TablaClientes.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Home\\TablaClientes.cshtml",
+              "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Home\\TablaClientes.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Home\\TablaClientes.cshtml",
+              "RelativeToolTip": "ProyectoDeAula\\Views\\Home\\TablaClientes.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAmwDoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T23:00:24.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProyectoDeAula\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAmwEQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T22:59:32.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ProyectoDeAula\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\appsettings.Development.json",
+              "RelativeToolTip": "ProyectoDeAula\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T22:57:29.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Agua_test.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula_test\\Agua_test.cs",
+              "RelativeDocumentMoniker": "ProyectoDeAula_test\\Agua_test.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula_test\\Agua_test.cs",
+              "RelativeToolTip": "ProyectoDeAula_test\\Agua_test.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAA6wHYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:56:34.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CalculoPagoCliente_test.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula_test\\CalculoPagoCliente_test.cs",
+              "RelativeDocumentMoniker": "ProyectoDeAula_test\\CalculoPagoCliente_test.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula_test\\CalculoPagoCliente_test.cs",
+              "RelativeToolTip": "ProyectoDeAula_test\\CalculoPagoCliente_test.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:56:14.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GestionClientes_test.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula_test\\GestionClientes_test.cs",
+              "RelativeDocumentMoniker": "ProyectoDeAula_test\\GestionClientes_test.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula_test\\GestionClientes_test.cs",
+              "RelativeToolTip": "ProyectoDeAula_test\\GestionClientes_test.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:55:58.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Cliente_test.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula_test\\Cliente_test.cs",
+              "RelativeDocumentMoniker": "ProyectoDeAula_test\\Cliente_test.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula_test\\Cliente_test.cs",
+              "RelativeToolTip": "ProyectoDeAula_test\\Cliente_test.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:55:43.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Energia_test.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula_test\\Energia_test.cs",
               "RelativeDocumentMoniker": "ProyectoDeAula_test\\Energia_test.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula_test\\Energia_test.cs",
               "RelativeToolTip": "ProyectoDeAula_test\\Energia_test.cs",
-              "ViewState": "AQIAAFUAAAAAAAAAAAAkwFsAAABAAAAA",
+              "ViewState": "AQIAAGEAAAAAAAAAAAA6wHYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T04:30:05.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T04:30:05.204Z"
             }
           ]
         }

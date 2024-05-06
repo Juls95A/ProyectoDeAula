@@ -12,6 +12,7 @@ namespace ProyectoDeAula.Models.Entidades
             int valor_incentivo = (cliente.Meta_ahorro - cliente.Consumo_energia) * 850;
             int valor_total_energia = valor_parcial - valor_incentivo;
 
+            int valor_gas = cliente.Consumo_gas * 2543;
             int valor_agua = 0;
             int valor_exceso = 0;
             int valor_total_agua = 0;
@@ -28,7 +29,7 @@ namespace ProyectoDeAula.Models.Entidades
             {
                 valor_total_agua = cliente.Consumo_agua * 4600;
             }
-            valor_pagar = valor_total_energia + valor_total_agua;
+            valor_pagar = valor_total_energia + valor_total_agua + valor_gas;
             return valor_pagar;
         }
 

@@ -61,7 +61,11 @@ namespace ProyectoDeAula.Controllers
 
             return View();
         }
+        public IActionResult ConsumoGas()
+        {
 
+            return View();
+        }
 
         public IActionResult ConsumoAgua()
         {
@@ -222,11 +226,26 @@ namespace ProyectoDeAula.Controllers
             return View("ConsumoEnergia", clientes);
         }
 
-        [HttpPost]
-        public ActionResult CalcularPago()
+
+        public IActionResult gasconsumo()
         {
 
-            return View("supa pagos", clientes);
+            int clientesMayor = Gas.ClienteConConsumoMayorGas(clientes);
+
+
+
+            ViewData["consumoMayor"] = clientesMayor;
+
+            return View("ConsumoGas", clientes);
+        }
+
+
+
+        [HttpPost]
+        public ActionResult CalcularPagos()
+        {
+
+            return View("suma pagos", clientes);
         }
         public IActionResult Textopago()
         {

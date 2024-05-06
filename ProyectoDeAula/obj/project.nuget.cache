@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "eOyNutpspoZ1BAxCpxkNdhrv1FxnRLxNerb4TrboTWqv4e3c4HN1tszncbpiq6XBY0VZ/1Y+Z2XpBJ3Oi5TLTQ==",
+  "dgSpecHash": "+5ZP0gMHCB0+HI4PqHJrbRQJ3ZMsY2kRwO18BGmIF7xM4M1nXuBH4EVx04XiUHr+47Z/l4OCuZHgyrXIfDGuRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\admin\\Documents\\ProyectoDeAula-main\\ProyectoDeAula-main\\ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
