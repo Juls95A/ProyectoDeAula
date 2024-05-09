@@ -29,3 +29,34 @@ D:\Downloads\ProyectoDeAula-main\ProyectoDeAula-main\ProyectoDeAula\obj\Debug\ne
 D:\Downloads\ProyectoDeAula-main\ProyectoDeAula-main\ProyectoDeAula\obj\Debug\net7.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.pdb
 D:\Downloads\ProyectoDeAula-main\ProyectoDeAula-main\ProyectoDeAula\obj\Debug\net7.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.genruntimeconfig.cache
 D:\Downloads\ProyectoDeAula-main\ProyectoDeAula-main\ProyectoDeAula\obj\Debug\net7.0\ref\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\bin\Debug\net7.0\appsettings.json
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\bin\Debug\net7.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.staticwebassets.runtime.json
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\bin\Debug\net7.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.exe
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\bin\Debug\net7.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.deps.json
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\bin\Debug\net7.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.runtimeconfig.json
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\bin\Debug\net7.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\bin\Debug\net7.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.pdb
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net7.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net7.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net7.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.AssemblyInfo.cs
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net7.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net7.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net7.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.RazorAssemblyInfo.cache
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net7.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.RazorAssemblyInfo.cs
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net7.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.sourcelink.json
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net7.0\staticwebassets\msbuild.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net7.0\staticwebassets\msbuild.build.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.props
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.props
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.props
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net7.0\scopedcss\bundle\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.styles.css
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net7.0\scopedcss\projectbundle\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.bundle.scp.css
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net7.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net7.0\refint\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net7.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.pdb
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net7.0\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.genruntimeconfig.cache
+C:\Users\admin\Documents\Codigo Limpio\Proyecto\ProyectoDeAula\obj\Debug\net7.0\ref\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.dll

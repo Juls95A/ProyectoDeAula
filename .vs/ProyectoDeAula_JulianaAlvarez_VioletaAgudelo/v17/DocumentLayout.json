@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\models\\entidades\\gas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\models\\entidades\\gas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\views\\home\\consumogas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\views\\home\\consumogas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\models\\entidades\\energia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\models\\entidades\\energia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\models\\entidades\\agua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\models\\entidades\\agua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\models\\entidades\\calculopagoclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\models\\entidades\\calculopagoclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\models\\entidades\\gestionclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\models\\entidades\\gestionclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\models\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\models\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\models\\entidades\\energia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\models\\entidades\\energia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\models\\entidades\\calculopagoclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\models\\entidades\\calculopagoclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\models\\entidades\\gestionclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\models\\entidades\\gestionclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\models\\entidades\\gas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\models\\entidades\\gas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula\\views\\home\\actualizarinformacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -93,6 +89,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{1842AECE-8B68-4B78-82FE-8FC22989EE4B}|ProyectoDeAula_test\\ProyectoDeAula_test.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\proyectodeaula_test\\energia_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1842AECE-8B68-4B78-82FE-8FC22989EE4B}|ProyectoDeAula_test\\ProyectoDeAula_test.csproj|solutionrelative:proyectodeaula_test\\energia_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Home\\ConsumoGas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProyectoDeAula\\Views\\Home\\ConsumoGas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,48 +102,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ProyectoDeAula\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ProyectoDeAula\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAOsAAAAAAAAAAAAowAABAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T23:08:03.533Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Gas.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Models\\Entidades\\Gas.cs",
               "RelativeDocumentMoniker": "ProyectoDeAula\\Models\\Entidades\\Gas.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Models\\Entidades\\Gas.cs",
               "RelativeToolTip": "ProyectoDeAula\\Models\\Entidades\\Gas.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAUAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwD0AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T23:07:34.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Agua.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Models\\Entidades\\Agua.cs",
               "RelativeDocumentMoniker": "ProyectoDeAula\\Models\\Entidades\\Agua.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Models\\Entidades\\Agua.cs",
               "RelativeToolTip": "ProyectoDeAula\\Models\\Entidades\\Agua.cs",
-              "ViewState": "AQIAAGAAAAAAAAAAAAAowHUAAAABAAAA",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAswJIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T23:06:58.582Z"
+              "WhenOpened": "2024-05-06T23:06:58.582Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 22,
               "Title": "ConsumoGas.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Home\\ConsumoGas.cs",
               "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Home\\ConsumoGas.cs",
@@ -151,8 +140,7 @@
               "RelativeToolTip": "ProyectoDeAula\\Views\\Home\\ConsumoGas.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T23:02:42.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T23:02:42.225Z"
             },
             {
               "$type": "Document",
@@ -162,37 +150,40 @@
               "RelativeDocumentMoniker": "ProyectoDeAula\\Models\\Entidades\\CalculoPagoClientes.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Models\\Entidades\\CalculoPagoClientes.cs",
               "RelativeToolTip": "ProyectoDeAula\\Models\\Entidades\\CalculoPagoClientes.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAowCUAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T23:06:42.668Z"
+              "WhenOpened": "2024-05-06T23:06:42.668Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Models\\Entidades\\Cliente.cs",
               "RelativeDocumentMoniker": "ProyectoDeAula\\Models\\Entidades\\Cliente.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Models\\Entidades\\Cliente.cs",
               "RelativeToolTip": "ProyectoDeAula\\Models\\Entidades\\Cliente.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAA7wDgAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T23:06:20.922Z"
+              "WhenOpened": "2024-05-06T23:06:20.922Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "GestionClientes.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Models\\Entidades\\GestionClientes.cs",
               "RelativeDocumentMoniker": "ProyectoDeAula\\Models\\Entidades\\GestionClientes.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Models\\Entidades\\GestionClientes.cs",
               "RelativeToolTip": "ProyectoDeAula\\Models\\Entidades\\GestionClientes.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAkwFwAAAABAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwFwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T23:05:18.557Z"
+              "WhenOpened": "2024-05-06T23:05:18.557Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "ActualizarInformacion.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Home\\ActualizarInformacion.cshtml",
               "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Home\\ActualizarInformacion.cshtml",
@@ -204,19 +195,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Energia.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Models\\Entidades\\Energia.cs",
               "RelativeDocumentMoniker": "ProyectoDeAula\\Models\\Entidades\\Energia.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Models\\Entidades\\Energia.cs",
               "RelativeToolTip": "ProyectoDeAula\\Models\\Entidades\\Energia.cs",
-              "ViewState": "AQIAAGIAAAAAAAAAAAAowHoAAAABAAAA",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAAAE4AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T05:06:07.863Z"
+              "WhenOpened": "2024-04-27T05:06:07.863Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProyectoDeAula\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProyectoDeAula\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAOsAAAAAAAAAAAAowAABAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:08:03.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ConsumoAgua.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Home\\ConsumoAgua.cshtml",
               "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Home\\ConsumoAgua.cshtml",
@@ -228,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "ConsumoEnergia.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Home\\ConsumoEnergia.cshtml",
               "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Home\\ConsumoEnergia.cshtml",
@@ -240,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Datos.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Home\\Datos.cshtml",
               "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Home\\Datos.cshtml",
@@ -252,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "EliminarCliente.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Home\\EliminarCliente.cshtml",
               "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Home\\EliminarCliente.cshtml",
@@ -264,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "Factura.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Home\\Factura.cshtml",
               "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Home\\Factura.cshtml",
@@ -276,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "RegistrarCliente.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Home\\RegistrarCliente.cshtml",
               "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Home\\RegistrarCliente.cshtml",
@@ -288,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "TablaClientes.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Home\\TablaClientes.cshtml",
               "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Home\\TablaClientes.cshtml",
@@ -300,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Shared\\_Layout.cshtml",
@@ -312,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ProyectoDeAula\\appsettings.Development.json",
@@ -324,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "Agua_test.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula_test\\Agua_test.cs",
               "RelativeDocumentMoniker": "ProyectoDeAula_test\\Agua_test.cs",
@@ -336,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "CalculoPagoCliente_test.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula_test\\CalculoPagoCliente_test.cs",
               "RelativeDocumentMoniker": "ProyectoDeAula_test\\CalculoPagoCliente_test.cs",
@@ -348,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "GestionClientes_test.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula_test\\GestionClientes_test.cs",
               "RelativeDocumentMoniker": "ProyectoDeAula_test\\GestionClientes_test.cs",
@@ -360,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "Cliente_test.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula_test\\Cliente_test.cs",
               "RelativeDocumentMoniker": "ProyectoDeAula_test\\Cliente_test.cs",
@@ -372,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "Energia_test.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula_test\\Energia_test.cs",
               "RelativeDocumentMoniker": "ProyectoDeAula_test\\Energia_test.cs",

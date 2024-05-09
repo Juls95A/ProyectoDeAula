@@ -1022,11 +1022,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Documents\\ProyectoDeAula-main\\ProyectoDeAula-main\\ProyectoDeAula_test\\ProyectoDeAula_test.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula_test\\ProyectoDeAula_test.csproj",
       "projectName": "ProyectoDeAula_test",
-      "projectPath": "C:\\Users\\admin\\Documents\\ProyectoDeAula-main\\ProyectoDeAula-main\\ProyectoDeAula_test\\ProyectoDeAula_test.csproj",
+      "projectPath": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula_test\\ProyectoDeAula_test.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Documents\\ProyectoDeAula-main\\ProyectoDeAula-main\\ProyectoDeAula_test\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula_test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1048,8 +1048,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\admin\\Documents\\ProyectoDeAula-main\\ProyectoDeAula-main\\ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj": {
-              "projectPath": "C:\\Users\\admin\\Documents\\ProyectoDeAula-main\\ProyectoDeAula-main\\ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj"
+            "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj": {
+              "projectPath": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj"
             }
           }
         }

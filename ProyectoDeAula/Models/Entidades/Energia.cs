@@ -15,6 +15,11 @@ namespace ProyectoDeAula_JulianaAlvarezVioletaAgudelo.Models.Entidades
 
         public static int CalcularPromedioConsumoEnergia(List<Cliente> clientes)
         {
+            if (clientes == null || clientes.Count == 0)
+            {
+                throw new ArgumentException("La lista de clientes está vacía o es nula.");
+            }
+
             int suma_consumo_energia = 0;
             foreach (Cliente cliente in clientes)
             {
@@ -27,8 +32,13 @@ namespace ProyectoDeAula_JulianaAlvarezVioletaAgudelo.Models.Entidades
 
         public static int CalcularConsumoExcesivoEnergia(List<Cliente> clientes)
         {
+            if (clientes == null || clientes.Count == 0)
+            {
+                throw new ArgumentException("La lista de clientes está vacía o es nula.");
+            }
+
             int promedio_consumo_energia = CalcularPromedioConsumoEnergia(clientes);
-            int consumo_excesivo_energia= 0;
+            int consumo_excesivo_energia = 0;
             foreach (Cliente cliente in clientes)
             {
                 if (cliente.consumo_energia > promedio_consumo_energia)
@@ -41,78 +51,114 @@ namespace ProyectoDeAula_JulianaAlvarezVioletaAgudelo.Models.Entidades
 
         public static void MostrarPorcentajesConsumoExcesivoEnergiaPorEstrato(List<Cliente> clientes)
         {
-            int promedio_consumo_energia = CalcularPromedioConsumoEnergia(clientes);
-            Dictionary<int, int> ClientesExcesoEnergiaPorEstrato = new Dictionary<int, int>();
-
-            foreach (Cliente cliente in clientes)
+            try
             {
-                if (!ClientesExcesoEnergiaPorEstrato.ContainsKey(cliente.estrato))
+                if (clientes == null || clientes.Count == 0)
                 {
-                    ClientesExcesoEnergiaPorEstrato[cliente.estrato] = 0;
+                    throw new ArgumentException("La lista de clientes está vacía o es nula.");
                 }
 
-                if (cliente.consumo_energia > promedio_consumo_energia)
+                int promedio_consumo_energia = CalcularPromedioConsumoEnergia(clientes);
+                Dictionary<int, int> ClientesExcesoEnergiaPorEstrato = new Dictionary<int, int>();
+
+                foreach (Cliente cliente in clientes)
                 {
-                    ClientesExcesoEnergiaPorEstrato[cliente.estrato]++;
+                    if (!ClientesExcesoEnergiaPorEstrato.ContainsKey(cliente.estrato))
+                    {
+                        ClientesExcesoEnergiaPorEstrato[cliente.estrato] = 0;
+                    }
+
+                    if (cliente.consumo_energia > promedio_consumo_energia)
+                    {
+                        ClientesExcesoEnergiaPorEstrato[cliente.estrato]++;
+                    }
+                }
+
+                foreach (var kvp in ClientesExcesoEnergiaPorEstrato)
+                {
+                    int estrato = kvp.Key;
+                    int ClientesExcesoEnergia = kvp.Value;
+
+                    double porcentaje = (double)ClientesExcesoEnergia / clientes.Count * 100;
+
+                    Console.WriteLine($"El porcentaje de consumo excesivo de energia en el estrato {estrato} es: {porcentaje}%");
                 }
             }
-
-            foreach (var kvp in ClientesExcesoEnergiaPorEstrato)
+            catch (ArgumentException)
             {
-                int estrato = kvp.Key;
-                int ClientesExcesoEnergia = kvp.Value;
-
-                double porcentaje = (double)ClientesExcesoEnergia/ clientes.Count * 100;
-
-                Console.WriteLine($"El porcentaje de consumo excesivo de energia en el estrato {estrato} es: {porcentaje}%");
+                throw ;
             }
         }
 
         public static List<int> MostrarClientesConConsumoEnergiaMayorAlPromedio(List<Cliente> clientes)
         {
-            int promedio_consumo_energia = CalcularPromedioConsumoEnergia(clientes);
-            List<int> estratosClientesMayor = new List<int>();
-
-            foreach (Cliente cliente in clientes)
+            try
             {
-                if (cliente.consumo_energia > promedio_consumo_energia)
+                if (clientes == null || clientes.Count == 0)
                 {
-                    if (!estratosClientesMayor.Contains(cliente.estrato))
+                    throw new ArgumentException("La lista de clientes está vacía o es nula.");
+                }
+
+                int promedio_consumo_energia = CalcularPromedioConsumoEnergia(clientes);
+                List<int> estratosClientesMayor = new List<int>();
+
+                foreach (Cliente cliente in clientes)
+                {
+                    if (cliente.consumo_energia > promedio_consumo_energia)
                     {
-                        estratosClientesMayor.Add(cliente.estrato);
+                        if (!estratosClientesMayor.Contains(cliente.estrato))
+                        {
+                            estratosClientesMayor.Add(cliente.estrato);
+                        }
                     }
                 }
+                return estratosClientesMayor;
             }
-            return estratosClientesMayor;
+            catch (ArgumentException )
+            {
+                throw ;
+            }
         }
 
         public static int EstratoConMayorAhorroDeEnergia(List<Cliente> clientes)
         {
-            Dictionary<int, int> gastoPorEstrato = new Dictionary<int, int>();
-
-            foreach (Cliente cliente in clientes)
+            try
             {
-                if (!gastoPorEstrato.ContainsKey(cliente.estrato))
+                if (clientes == null || clientes.Count == 0)
                 {
-                    gastoPorEstrato[cliente.estrato] = 0;
+                    throw new ArgumentException("La lista de clientes está vacía o es nula.");
                 }
 
-                gastoPorEstrato[cliente.estrato] += cliente.consumo_energia;
-            }
+                Dictionary<int, int> gastoPorEstrato = new Dictionary<int, int>();
 
-            int estratoMenorGastoEnergia = -1;
-            int minGastoEnergia = int.MaxValue;
-
-            foreach (var kvp in gastoPorEstrato)
-            {
-                if (kvp.Value < minGastoEnergia)
+                foreach (Cliente cliente in clientes)
                 {
-                    minGastoEnergia = kvp.Value;
-                    estratoMenorGastoEnergia = kvp.Key;
-                }
-            }
+                    if (!gastoPorEstrato.ContainsKey(cliente.estrato))
+                    {
+                        gastoPorEstrato[cliente.estrato] = 0;
+                    }
 
-            return estratoMenorGastoEnergia;
+                    gastoPorEstrato[cliente.estrato] += cliente.consumo_energia;
+                }
+
+                int estratoMenorGastoEnergia = -1;
+                int minGastoEnergia = int.MaxValue;
+
+                foreach (var kvp in gastoPorEstrato)
+                {
+                    if (kvp.Value < minGastoEnergia)
+                    {
+                        minGastoEnergia = kvp.Value;
+                        estratoMenorGastoEnergia = kvp.Key;
+                    }
+                }
+
+                return estratoMenorGastoEnergia;
+            }
+            catch (ArgumentException )
+            {
+                throw ;
+            }
         }
 
         public static List<int> EstratosConConsumoEnergiaMayorAlPromedio(List<Cliente> clientes)

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tneooehv1F35C9imxOoqUqY5cHvjyrJrBtVdFfYn/S2yHhHp+E/hcU/mkLuQ3pRc0FMKCCAOv65oUoDiDkl/og==",
+  "dgSpecHash": "Ki3P1be6o7WNE7ErEjgqEV8VpfZL4h751V0U9giDOP4nh/CVmc8D80LPCr1NXJ/Ol2QjcASaE8M9ovPJExp/Bw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Documents\\ProyectoDeAula-main\\ProyectoDeAula-main\\ProyectoDeAula_test\\ProyectoDeAula_test.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\ProyectoDeAula_test\\ProyectoDeAula_test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

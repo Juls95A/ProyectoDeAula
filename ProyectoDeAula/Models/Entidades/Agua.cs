@@ -15,104 +15,139 @@ namespace ProyectoDeAula_JulianaAlvarezVioletaAgudelo.Models.Entidades
 
         public static int CalcularPromedioConsumoAgua(List<Cliente> clientes)
         {
-            int suma_consumo_agua = 0;
-            foreach (Cliente cliente in clientes)
+            try
             {
-                suma_consumo_agua += cliente.consumo_agua;
-            }
-            double promedio_consumo_agua_double = suma_consumo_agua / (double)clientes.Count;
+                int suma_consumo_agua = 0;
+                foreach (Cliente cliente in clientes)
+                {
+                    suma_consumo_agua += cliente.consumo_agua;
+                }
+                double promedio_consumo_agua_double = suma_consumo_agua / (double)clientes.Count;
 
-            return (int)promedio_consumo_agua_double;
+                return (int)promedio_consumo_agua_double;
+            }
+            catch (DivideByZeroException)
+            {
+                throw new ArgumentException("La lista de clientes está vacía.");
+            }
         }
 
         public static int CalcularConsumoExcesivoAgua(List<Cliente> clientes)
         {
-            int promedio_consumo_agua = CalcularPromedioConsumoAgua(clientes);
-            int consumo_excesivo_agua = 0;
-            foreach (Cliente cliente in clientes)
+            try
             {
-                if (cliente.consumo_agua > promedio_consumo_agua)
+                int promedio_consumo_agua = CalcularPromedioConsumoAgua(clientes);
+                int consumo_excesivo_agua = 0;
+                foreach (Cliente cliente in clientes)
                 {
-                    consumo_excesivo_agua += cliente.consumo_agua - promedio_consumo_agua;
+                    if (cliente.consumo_agua > promedio_consumo_agua)
+                    {
+                        consumo_excesivo_agua += cliente.consumo_agua - promedio_consumo_agua;
+                    }
                 }
+                return consumo_excesivo_agua;
             }
-            return consumo_excesivo_agua;
+            catch (ArgumentException )
+            {
+                throw ;
+            }
         }
 
         public static void MostrarPorcentajesConsumoExcesivoAguaPorEstrato(List<Cliente> clientes)
         {
-            int promedio_consumo_agua = CalcularPromedioConsumoAgua(clientes);
-            Dictionary<int, int> ClientesExcesoAguaPorEstrato = new Dictionary<int, int>();
-
-            foreach (Cliente cliente in clientes)
+            try
             {
-                if (!ClientesExcesoAguaPorEstrato.ContainsKey(cliente.estrato))
+                int promedio_consumo_agua = CalcularPromedioConsumoAgua(clientes);
+                Dictionary<int, int> ClientesExcesoAguaPorEstrato = new Dictionary<int, int>();
+
+                foreach (Cliente cliente in clientes)
                 {
-                    ClientesExcesoAguaPorEstrato[cliente.estrato] = 0;
+                    if (!ClientesExcesoAguaPorEstrato.ContainsKey(cliente.estrato))
+                    {
+                        ClientesExcesoAguaPorEstrato[cliente.estrato] = 0;
+                    }
+
+                    if (cliente.consumo_agua > promedio_consumo_agua)
+                    {
+                        ClientesExcesoAguaPorEstrato[cliente.estrato]++;
+                    }
                 }
 
-                if (cliente.consumo_agua > promedio_consumo_agua)
+                foreach (var kvp in ClientesExcesoAguaPorEstrato)
                 {
-                    ClientesExcesoAguaPorEstrato[cliente.estrato]++;
+                    int estrato = kvp.Key;
+                    int ClientesExcesoAgua = kvp.Value;
+
+                    double porcentaje = (double)ClientesExcesoAgua / clientes.Count * 100;
+
+                    Console.WriteLine($"El porcentaje de consumo excesivo de agua en el estrato {estrato} es: {porcentaje}%");
                 }
             }
-
-            foreach (var kvp in ClientesExcesoAguaPorEstrato)
+            catch (ArgumentException )
             {
-                int estrato = kvp.Key;
-                int ClientesExcesoAgua = kvp.Value;
-
-                double porcentaje = (double)ClientesExcesoAgua / clientes.Count * 100;
-
-                Console.WriteLine($"El porcentaje de consumo excesivo de agua en el estrato {estrato} es: {porcentaje}%");
+                throw ;
             }
         }
 
         public static List<int> EstratosConConsumoAguaMayorAlPromedio(List<Cliente> clientes)
         {
-            int promedio_consumo_agua = CalcularPromedioConsumoAgua(clientes);
-            List<int> estratosClientesMayor = new List<int>();
-
-            foreach (Cliente cliente in clientes)
+            try
             {
-                if (cliente.consumo_agua > promedio_consumo_agua)
+                int promedio_consumo_agua = CalcularPromedioConsumoAgua(clientes);
+                List<int> estratosClientesMayor = new List<int>();
+
+                foreach (Cliente cliente in clientes)
                 {
-                    if (!estratosClientesMayor.Contains(cliente.estrato))
+                    if (cliente.consumo_agua > promedio_consumo_agua)
                     {
-                        estratosClientesMayor.Add(cliente.estrato);
+                        if (!estratosClientesMayor.Contains(cliente.estrato))
+                        {
+                            estratosClientesMayor.Add(cliente.estrato);
+                        }
                     }
                 }
+                return estratosClientesMayor;
             }
-            return estratosClientesMayor;
+            catch (ArgumentException )
+            {
+                throw ;
+            }
         }
 
         public static int EstratoConMayorAhorroDeAgua(List<Cliente> clientes)
         {
-            Dictionary<int, int> gastoPorEstrato = new Dictionary<int, int>();
-
-            foreach (Cliente cliente in clientes)
+            try
             {
-                if (!gastoPorEstrato.ContainsKey(cliente.estrato))
+                Dictionary<int, int> gastoPorEstrato = new Dictionary<int, int>();
+
+                foreach (Cliente cliente in clientes)
                 {
-                    gastoPorEstrato[cliente.estrato] = 0;
+                    if (!gastoPorEstrato.ContainsKey(cliente.estrato))
+                    {
+                        gastoPorEstrato[cliente.estrato] = 0;
+                    }
+
+                    gastoPorEstrato[cliente.estrato] += cliente.consumo_agua;
                 }
 
-                gastoPorEstrato[cliente.estrato] += cliente.consumo_agua;
-            }
+                int estratoMenorGastoAgua = -1;
+                int minGastoAgua = int.MaxValue;
 
-            int estratoMenorGastoAgua = -1;
-            int minGastoAgua = int.MaxValue;
-
-            foreach (var kvp in gastoPorEstrato)
-            {
-                if (kvp.Value < minGastoAgua)
+                foreach (var kvp in gastoPorEstrato)
                 {
-                    minGastoAgua = kvp.Value;
-                    estratoMenorGastoAgua = kvp.Key;
+                    if (kvp.Value < minGastoAgua)
+                    {
+                        minGastoAgua = kvp.Value;
+                        estratoMenorGastoAgua = kvp.Key;
+                    }
                 }
-            }
 
-            return estratoMenorGastoAgua;
+                return estratoMenorGastoAgua;
+            }
+            catch (ArgumentException )
+            {
+                throw ;
+            }
         }
     }
 }
