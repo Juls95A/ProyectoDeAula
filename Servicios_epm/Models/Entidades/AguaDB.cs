@@ -1,165 +1,274 @@
 ﻿using Servicios_epm.datos;
-using System;
-using System.Collections.Generic;
-using System.Data;
 using System.Data.SqlClient;
+using System.Data;
 
-namespace ProyectoDeAula_JulianaAlvarezVioletaAgudelo.Datos
+namespace Servicios_epm.modelos
 {
-    public class AguaBD
+    public class aguaDB
     {
         static Conexion connection = new Conexion();
 
-        // Método para obtener el promedio de consumo de agua de todos los clientes
-        public static int ObtenerPromedioConsumoAgua()
+        public static DataTable BuscarTodos()
         {
+            DataTable dtAgua = new DataTable();
+
             try
             {
                 using (SqlConnection sqlConnection = new SqlConnection(connection.conexion))
                 {
                     sqlConnection.Open();
-                    string query = "SELECT AVG(consumo_agua) FROM Cliente;";
-                    SqlCommand command = new SqlCommand(query, sqlConnection);
 
-                    // Convertir el resultado a entero y devolverlo
-                    int promedio = Convert.ToInt32(command.ExecuteScalar());
-                    return promedio;
+                    string query = "SELECT A.IdAgua, A.Promedio_consumo_agua, A.IdCliente FROM Agua AS A";
+
+                    SqlDataAdapter adaptador = new SqlDataAdapter(query, sqlConnection);
+                    adaptador.Fill(dtAgua);
                 }
             }
             catch (Exception ex)
             {
-                Console.WriteLine("Error al obtener el promedio de consumo de agua: " + ex.Message);
-                return 0;
+                Console.WriteLine("Error al buscar todos los registros de agua: " + ex.Message);
             }
+
+            return dtAgua;
         }
 
-        // Método para calcular el consumo excesivo de agua
-        public static int ObtenerConsumoExcesivoAgua()
+        public static DataTable Buscar(int idAgua)
         {
+            DataTable dtAgua = new DataTable();
+
             try
             {
-                int promedio = ObtenerPromedioConsumoAgua();
-
                 using (SqlConnection sqlConnection = new SqlConnection(connection.conexion))
                 {
                     sqlConnection.Open();
-                    string query = "SELECT SUM(consumo_agua - @promedio) FROM Cliente WHERE consumo_agua > @promedio;";
-                    SqlCommand command = new SqlCommand(query, sqlConnection);
-                    command.Parameters.AddWithValue("@promedio", promedio);
 
-                    int consumoExcesivo = Convert.ToInt32(command.ExecuteScalar());
-                    return consumoExcesivo;
+                    string query = "SELECT A.IdAgua, A.Promedio_consumo_agua, A.IdCliente FROM Agua AS A WHERE A.IdAgua = @idAgua";
+
+                    SqlDataAdapter adaptador = new SqlDataAdapter(query, sqlConnection);
+                    adaptador.SelectCommand.Parameters.AddWithValue("@idAgua", idAgua);
+
+                    adaptador.Fill(dtAgua);
                 }
             }
             catch (Exception ex)
             {
-                Console.WriteLine("Error al obtener el consumo excesivo de agua: " + ex.Message);
-                return 0;
+                Console.WriteLine("Error al buscar el registro de agua: " + ex.Message);
             }
+
+            return dtAgua;
         }
 
-        // Método para obtener los porcentajes de consumo excesivo de agua por estrato
-        public static Dictionary<int, double> ObtenerPorcentajesConsumoExcesivoAguaPorEstrato()
+        public static bool Insertar(int promedioConsumoAgua, int idCliente)
         {
             try
             {
-                int promedio = ObtenerPromedioConsumoAgua();
-
                 using (SqlConnection sqlConnection = new SqlConnection(connection.conexion))
                 {
                     sqlConnection.Open();
-                    string query = @"
-                        SELECT estrato, 
-                               COUNT(*) * 100.0 / (SELECT COUNT(*) FROM Cliente) AS porcentaje
-                        FROM Cliente
-                        WHERE consumo_agua > @promedio
-                        GROUP BY estrato;";
+
+                    string query = @"INSERT INTO Agua (Promedio_consumo_agua, IdCliente) 
+                                     VALUES (@promedioConsumoAgua, @idCliente);";
 
                     SqlCommand command = new SqlCommand(query, sqlConnection);
-                    command.Parameters.AddWithValue("@promedio", promedio);
+                    command.Parameters.AddWithValue("@promedioConsumoAgua", promedioConsumoAgua);
+                    command.Parameters.AddWithValue("@idCliente", idCliente);
+                    command.ExecuteNonQuery();
+                }
 
-                    SqlDataReader reader = command.ExecuteReader();
-                    Dictionary<int, double> porcentajesPorEstrato = new Dictionary<int, double>();
+                return true;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Error al insertar el registro de agua: " + ex.Message);
+                return false;
+            }
+        }
 
-                    while (reader.Read())
+        public static bool Eliminar(int idAgua)
+        {
+            try
+            {
+                using (SqlConnection sqlConnection = new SqlConnection(connection.conexion))
+                {
+                    sqlConnection.Open();
+
+                    string query = @"DELETE FROM Agua WHERE IdAgua = @idAgua;";
+
+                    SqlCommand command = new SqlCommand(query, sqlConnection);
+                    command.Parameters.AddWithValue("@idAgua", idAgua);
+                    command.ExecuteNonQuery();
+                }
+
+                return true;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Error al eliminar el registro de agua: " + ex.Message);
+                return false;
+            }
+        }
+
+        public static bool Actualizar(int idAgua, int promedioConsumoAgua, int idCliente)
+        {
+            try
+            {
+                using (SqlConnection sqlConnection = new SqlConnection(connection.conexion))
+                {
+                    sqlConnection.Open();
+
+                    string query = @"UPDATE Agua SET Promedio_consumo_agua = @promedioConsumoAgua, IdCliente = @idCliente
+                                     WHERE IdAgua = @idAgua;";
+
+                    SqlCommand command = new SqlCommand(query, sqlConnection);
+                    command.Parameters.AddWithValue("@promedioConsumoAgua", promedioConsumoAgua);
+                    command.Parameters.AddWithValue("@idCliente", idCliente);
+                    command.Parameters.AddWithValue("@idAgua", idAgua);
+                    command.ExecuteNonQuery();
+                }
+
+                return true;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Error al actualizar el registro de agua: " + ex.Message);
+                return false;
+            }
+        }
+    }
+
+
+namespace Servicios_epm.modelos
+    {
+        public class aguaDB
+        {
+            static Conexion connection = new Conexion();
+
+            public static DataTable BuscarTodos()
+            {
+                DataTable dtAgua = new DataTable();
+
+                try
+                {
+                    using (SqlConnection sqlConnection = new SqlConnection(connection.conexion))
                     {
-                        int estrato = reader.GetInt32(0);
-                        double porcentaje = reader.GetDouble(1);
-                        porcentajesPorEstrato[estrato] = porcentaje;
+                        sqlConnection.Open();
+
+                        string query = "SELECT A.IdAgua, A.Promedio_consumo_agua, A.IdCliente FROM Agua AS A";
+
+                        SqlDataAdapter adaptador = new SqlDataAdapter(query, sqlConnection);
+                        adaptador.Fill(dtAgua);
+                    }
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("Error al buscar todos los registros de agua: " + ex.Message);
+                }
+
+                return dtAgua;
+            }
+
+            public static DataTable Buscar(int idAgua)
+            {
+                DataTable dtAgua = new DataTable();
+
+                try
+                {
+                    using (SqlConnection sqlConnection = new SqlConnection(connection.conexion))
+                    {
+                        sqlConnection.Open();
+
+                        string query = "SELECT A.IdAgua, A.Promedio_consumo_agua, A.IdCliente FROM Agua AS A WHERE A.IdAgua = @idAgua";
+
+                        SqlDataAdapter adaptador = new SqlDataAdapter(query, sqlConnection);
+                        adaptador.SelectCommand.Parameters.AddWithValue("@idAgua", idAgua);
+
+                        adaptador.Fill(dtAgua);
+                    }
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("Error al buscar el registro de agua: " + ex.Message);
+                }
+
+                return dtAgua;
+            }
+
+            public static bool Insertar(int promedioConsumoAgua, int idCliente)
+            {
+                try
+                {
+                    using (SqlConnection sqlConnection = new SqlConnection(connection.conexion))
+                    {
+                        sqlConnection.Open();
+
+                        string query = @"INSERT INTO Agua (Promedio_consumo_agua, IdCliente) 
+                                     VALUES (@promedioConsumoAgua, @idCliente);";
+
+                        SqlCommand command = new SqlCommand(query, sqlConnection);
+                        command.Parameters.AddWithValue("@promedioConsumoAgua", promedioConsumoAgua);
+                        command.Parameters.AddWithValue("@idCliente", idCliente);
+                        command.ExecuteNonQuery();
                     }
 
-                    return porcentajesPorEstrato;
+                    return true;
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("Error al insertar el registro de agua: " + ex.Message);
+                    return false;
                 }
             }
-            catch (Exception ex)
-            {
-                Console.WriteLine("Error al obtener los porcentajes de consumo excesivo de agua por estrato: " + ex.Message);
-                return null;
-            }
-        }
 
-        // Método para obtener los estratos con consumo de agua mayor al promedio
-        public static List<int> ObtenerEstratosConConsumoAguaMayorAlPromedio()
-        {
-            try
+            public static bool Eliminar(int idAgua)
             {
-                int promedio = ObtenerPromedioConsumoAgua();
-
-                using (SqlConnection sqlConnection = new SqlConnection(connection.conexion))
+                try
                 {
-                    sqlConnection.Open();
-                    string query = @"
-                        SELECT DISTINCT estrato
-                        FROM Cliente
-                        WHERE consumo_agua > @promedio;";
-
-                    SqlCommand command = new SqlCommand(query, sqlConnection);
-                    command.Parameters.AddWithValue("@promedio", promedio);
-
-                    SqlDataReader reader = command.ExecuteReader();
-                    List<int> estratosClientesMayor = new List<int>();
-
-                    while (reader.Read())
+                    using (SqlConnection sqlConnection = new SqlConnection(connection.conexion))
                     {
-                        estratosClientesMayor.Add(reader.GetInt32(0));
+                        sqlConnection.Open();
+
+                        string query = @"DELETE FROM Agua WHERE IdAgua = @idAgua;";
+
+                        SqlCommand command = new SqlCommand(query, sqlConnection);
+                        command.Parameters.AddWithValue("@idAgua", idAgua);
+                        command.ExecuteNonQuery();
                     }
 
-                    return estratosClientesMayor;
+                    return true;
                 }
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine("Error al obtener los estratos con consumo de agua mayor al promedio: " + ex.Message);
-                return null;
-            }
-        }
-
-        // Método para obtener el estrato con mayor ahorro de agua
-        public static int ObtenerEstratoConMayorAhorroDeAgua()
-        {
-            try
-            {
-                using (SqlConnection sqlConnection = new SqlConnection(connection.conexion))
+                catch (Exception ex)
                 {
-                    sqlConnection.Open();
-                    string query = @"
-                        SELECT TOP 1 estrato
-                        FROM Cliente
-                        GROUP BY estrato
-                        ORDER BY SUM(consumo_agua) ASC;";
-
-                    SqlCommand command = new SqlCommand(query, sqlConnection);
-
-                    int estratoMenorGastoAgua = Convert.ToInt32(command.ExecuteScalar());
-                    return estratoMenorGastoAgua;
+                    Console.WriteLine("Error al eliminar el registro de agua: " + ex.Message);
+                    return false;
                 }
             }
-            catch (Exception ex)
+
+            public static bool Actualizar(int idAgua, int promedioConsumoAgua, int idCliente)
             {
-                Console.WriteLine("Error al obtener el estrato con mayor ahorro de agua: " + ex.Message);
-                return 0;
+                try
+                {
+                    using (SqlConnection sqlConnection = new SqlConnection(connection.conexion))
+                    {
+                        sqlConnection.Open();
+
+                        string query = @"UPDATE Agua SET Promedio_consumo_agua = @promedioConsumoAgua, IdCliente = @idCliente
+                                     WHERE IdAgua = @idAgua;";
+
+                        SqlCommand command = new SqlCommand(query, sqlConnection);
+                        command.Parameters.AddWithValue("@promedioConsumoAgua", promedioConsumoAgua);
+                        command.Parameters.AddWithValue("@idCliente", idCliente);
+                        command.Parameters.AddWithValue("@idAgua", idAgua);
+                        command.ExecuteNonQuery();
+                    }
+
+                    return true;
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("Error al actualizar el registro de agua: " + ex.Message);
+                    return false;
+                }
             }
         }
     }
 }
-
