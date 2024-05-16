@@ -1,4 +1,4 @@
-﻿namespace ProyectoDeAula_JulianaAlvarezVioletaAgudelo.modelos
+﻿namespace ProyectoDeAula.Models
 {
     public class ErrorViewModel
     {

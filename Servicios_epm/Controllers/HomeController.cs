@@ -3,8 +3,7 @@ using System.Xml.Linq;
 using ProyectoDeAula.Models;
 using ProyectoDeAula.Models.Entidades;
 using Microsoft.AspNetCore.Mvc;
-using ProyectoDeAula_JulianaAlvarezVioletaAgudelo.Models.Entidades.ProyectoDeAula.Models.Entidades;
-
+using ProyectoDeAula_JulianaAlvarezVioletaAgudelo.Models.Entidades;
 
 namespace ProyectoDeAula.Controllers
 {

@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{BD3CAE8D-8348-4A8A-A05C-4AD168BEF6EA}|Servicios_epm\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:servicios_epm\\models\\entidades\\gestionclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BD3CAE8D-8348-4A8A-A05C-4AD168BEF6EA}|Servicios_epm\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\servicios_epm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3CAE8D-8348-4A8A-A05C-4AD168BEF6EA}|Servicios_epm\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:servicios_epm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3CAE8D-8348-4A8A-A05C-4AD168BEF6EA}|Servicios_epm\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\servicios_epm\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3CAE8D-8348-4A8A-A05C-4AD168BEF6EA}|Servicios_epm\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:servicios_epm\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3CAE8D-8348-4A8A-A05C-4AD168BEF6EA}|Servicios_epm\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\servicios_epm\\proyectodeaula_julianaalvarezvioletaagudelo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD3CAE8D-8348-4A8A-A05C-4AD168BEF6EA}|Servicios_epm\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:servicios_epm\\proyectodeaula_julianaalvarezvioletaagudelo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BD3CAE8D-8348-4A8A-A05C-4AD168BEF6EA}|Servicios_epm\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\servicios_epm\\models\\entidades\\gasdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD3CAE8D-8348-4A8A-A05C-4AD168BEF6EA}|Servicios_epm\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:servicios_epm\\models\\entidades\\gasdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{BD3CAE8D-8348-4A8A-A05C-4AD168BEF6EA}|Servicios_epm\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:servicios_epm\\models\\entidades\\energia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD3CAE8D-8348-4A8A-A05C-4AD168BEF6EA}|Servicios_epm\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\servicios_epm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD3CAE8D-8348-4A8A-A05C-4AD168BEF6EA}|Servicios_epm\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:servicios_epm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD3CAE8D-8348-4A8A-A05C-4AD168BEF6EA}|Servicios_epm\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\servicios_epm\\models\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD3CAE8D-8348-4A8A-A05C-4AD168BEF6EA}|Servicios_epm\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:servicios_epm\\models\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -45,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BD3CAE8D-8348-4A8A-A05C-4AD168BEF6EA}|Servicios_epm\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\servicios_epm\\services\\serviciocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD3CAE8D-8348-4A8A-A05C-4AD168BEF6EA}|Servicios_epm\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:servicios_epm\\services\\serviciocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD3CAE8D-8348-4A8A-A05C-4AD168BEF6EA}|Servicios_epm\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\servicios_epm\\proyectodeaula_julianaalvarezvioletaagudelo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BD3CAE8D-8348-4A8A-A05C-4AD168BEF6EA}|Servicios_epm\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:servicios_epm\\proyectodeaula_julianaalvarezvioletaagudelo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD3CAE8D-8348-4A8A-A05C-4AD168BEF6EA}|Servicios_epm\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\servicios_epm\\models\\entidades\\calculopagoclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -129,10 +133,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BD3CAE8D-8348-4A8A-A05C-4AD168BEF6EA}|Servicios_epm\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\servicios_epm\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BD3CAE8D-8348-4A8A-A05C-4AD168BEF6EA}|Servicios_epm\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:servicios_epm\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD3CAE8D-8348-4A8A-A05C-4AD168BEF6EA}|Servicios_epm\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\admin\\documents\\codigo limpio\\proyecto\\servicios_epm\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD3CAE8D-8348-4A8A-A05C-4AD168BEF6EA}|Servicios_epm\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:servicios_epm\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -142,45 +142,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GasDB.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\GasDB.cs",
-              "RelativeDocumentMoniker": "Servicios_epm\\Models\\Entidades\\GasDB.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\GasDB.cs",
-              "RelativeToolTip": "Servicios_epm\\Models\\Entidades\\GasDB.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAowB8AAAAAAAAA",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Servicios_epm\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Servicios_epm\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T04:38:57.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AguaDB.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\AguaDB.cs",
-              "RelativeDocumentMoniker": "Servicios_epm\\Models\\Entidades\\AguaDB.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\AguaDB.cs",
-              "RelativeToolTip": "Servicios_epm\\Models\\Entidades\\AguaDB.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T04:31:42.811Z",
+              "WhenOpened": "2024-05-16T03:23:41.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Gas.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\Gas.cs",
-              "RelativeDocumentMoniker": "Servicios_epm\\Models\\Entidades\\Gas.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\Gas.cs",
-              "RelativeToolTip": "Servicios_epm\\Models\\Entidades\\Gas.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAYwAsAAAAPAAAA",
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Servicios_epm\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Servicios_epm\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T04:19:08.916Z",
+              "WhenOpened": "2024-05-16T03:36:32.093Z",
               "EditorCaption": ""
             },
             {
@@ -191,106 +178,15 @@
               "RelativeDocumentMoniker": "Servicios_epm\\Models\\Entidades\\GestionClientes.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\GestionClientes.cs",
               "RelativeToolTip": "Servicios_epm\\Models\\Entidades\\GestionClientes.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAApwDcAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T04:14:17.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EnergiaDB.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\EnergiaDB.cs",
-              "RelativeDocumentMoniker": "Servicios_epm\\Models\\Entidades\\EnergiaDB.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\EnergiaDB.cs",
-              "RelativeToolTip": "Servicios_epm\\Models\\Entidades\\EnergiaDB.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAYwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T04:24:40.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Agua.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\Agua.cs",
-              "RelativeDocumentMoniker": "Servicios_epm\\Models\\Entidades\\Agua.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\Agua.cs",
-              "RelativeToolTip": "Servicios_epm\\Models\\Entidades\\Agua.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T04:17:27.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Energia.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\Energia.cs",
-              "RelativeDocumentMoniker": "Servicios_epm\\Models\\Entidades\\Energia.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\Energia.cs",
-              "RelativeToolTip": "Servicios_epm\\Models\\Entidades\\Energia.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T04:18:39.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Servicios_epm\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Servicios_epm\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T03:23:41.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\Cliente.cs",
-              "RelativeDocumentMoniker": "Servicios_epm\\Models\\Entidades\\Cliente.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\Cliente.cs",
-              "RelativeToolTip": "Servicios_epm\\Models\\Entidades\\Cliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T03:37:50.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ClienteDB.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\ClienteDB.cs",
-              "RelativeDocumentMoniker": "Servicios_epm\\Models\\Entidades\\ClienteDB.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\ClienteDB.cs",
-              "RelativeToolTip": "Servicios_epm\\Models\\Entidades\\ClienteDB.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T03:37:35.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ServicioCliente.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Services\\ServicioCliente.cs",
-              "RelativeDocumentMoniker": "Servicios_epm\\Services\\ServicioCliente.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Services\\ServicioCliente.cs",
-              "RelativeToolTip": "Servicios_epm\\Services\\ServicioCliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T04:21:09.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProyectoDeAula.csproj",
+              "DocumentIndex": 3,
+              "Title": "ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj",
               "RelativeDocumentMoniker": "Servicios_epm\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj",
               "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj",
@@ -302,7 +198,115 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gas.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\Gas.cs",
+              "RelativeDocumentMoniker": "Servicios_epm\\Models\\Entidades\\Gas.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\Gas.cs",
+              "RelativeToolTip": "Servicios_epm\\Models\\Entidades\\Gas.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T04:19:08.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AguaDB.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\AguaDB.cs",
+              "RelativeDocumentMoniker": "Servicios_epm\\Models\\Entidades\\AguaDB.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\AguaDB.cs",
+              "RelativeToolTip": "Servicios_epm\\Models\\Entidades\\AguaDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T04:31:42.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GasDB.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\GasDB.cs",
+              "RelativeDocumentMoniker": "Servicios_epm\\Models\\Entidades\\GasDB.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\GasDB.cs",
+              "RelativeToolTip": "Servicios_epm\\Models\\Entidades\\GasDB.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T04:38:57.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnergiaDB.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\EnergiaDB.cs",
+              "RelativeDocumentMoniker": "Servicios_epm\\Models\\Entidades\\EnergiaDB.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\EnergiaDB.cs",
+              "RelativeToolTip": "Servicios_epm\\Models\\Entidades\\EnergiaDB.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T04:24:40.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Agua.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\Agua.cs",
+              "RelativeDocumentMoniker": "Servicios_epm\\Models\\Entidades\\Agua.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\Agua.cs",
+              "RelativeToolTip": "Servicios_epm\\Models\\Entidades\\Agua.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T04:17:27.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Energia.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\Energia.cs",
+              "RelativeDocumentMoniker": "Servicios_epm\\Models\\Entidades\\Energia.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\Energia.cs",
+              "RelativeToolTip": "Servicios_epm\\Models\\Entidades\\Energia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T04:18:39.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\Cliente.cs",
+              "RelativeDocumentMoniker": "Servicios_epm\\Models\\Entidades\\Cliente.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\Cliente.cs",
+              "RelativeToolTip": "Servicios_epm\\Models\\Entidades\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T03:37:50.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClienteDB.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\ClienteDB.cs",
+              "RelativeDocumentMoniker": "Servicios_epm\\Models\\Entidades\\ClienteDB.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\ClienteDB.cs",
+              "RelativeToolTip": "Servicios_epm\\Models\\Entidades\\ClienteDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T03:37:35.334Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "ServicioCliente.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Services\\ServicioCliente.cs",
+              "RelativeDocumentMoniker": "Servicios_epm\\Services\\ServicioCliente.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Services\\ServicioCliente.cs",
+              "RelativeToolTip": "Servicios_epm\\Services\\ServicioCliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T04:21:09.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "CalculoPagoClientes.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\CalculoPagoClientes.cs",
               "RelativeDocumentMoniker": "Servicios_epm\\Models\\Entidades\\CalculoPagoClientes.cs",
@@ -310,12 +314,11 @@
               "RelativeToolTip": "Servicios_epm\\Models\\Entidades\\CalculoPagoClientes.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAowCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T04:18:09.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T04:18:09.709Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Entidades\\Program.cs",
               "RelativeDocumentMoniker": "Servicios_epm\\Models\\Entidades\\Program.cs",
@@ -323,12 +326,11 @@
               "RelativeToolTip": "Servicios_epm\\Models\\Entidades\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T04:13:49.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T04:13:49.627Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Context.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\Context.cs",
               "RelativeDocumentMoniker": "Servicios_epm\\Models\\Context.cs",
@@ -336,12 +338,11 @@
               "RelativeToolTip": "Servicios_epm\\Models\\Context.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T04:13:07.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T04:13:07.138Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "TablaClientes.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Views\\Home\\TablaClientes.cshtml",
               "RelativeDocumentMoniker": "Servicios_epm\\Views\\Home\\TablaClientes.cshtml",
@@ -349,12 +350,11 @@
               "RelativeToolTip": "Servicios_epm\\Views\\Home\\TablaClientes.cshtml",
               "ViewState": "AQIAACUAAAAAAAAAAAAmwDoAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-16T03:53:38.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T03:53:38.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "RegistrarCliente.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Views\\Home\\RegistrarCliente.cshtml",
               "RelativeDocumentMoniker": "Servicios_epm\\Views\\Home\\RegistrarCliente.cshtml",
@@ -362,12 +362,11 @@
               "RelativeToolTip": "Servicios_epm\\Views\\Home\\RegistrarCliente.cshtml",
               "ViewState": "AQIAABQAAAAAAAAAAAAmwBoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-16T03:52:55.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T03:52:55.174Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Servicios_epm\\Views\\Home\\Privacy.cshtml",
@@ -375,12 +374,11 @@
               "RelativeToolTip": "Servicios_epm\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-16T03:52:25.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T03:52:25.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Servicios_epm\\Views\\Home\\Index.cshtml",
@@ -388,12 +386,11 @@
               "RelativeToolTip": "Servicios_epm\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-16T03:51:55.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T03:51:55.941Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Factura.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Views\\Home\\Factura.cshtml",
               "RelativeDocumentMoniker": "Servicios_epm\\Views\\Home\\Factura.cshtml",
@@ -401,12 +398,11 @@
               "RelativeToolTip": "Servicios_epm\\Views\\Home\\Factura.cshtml",
               "ViewState": "AQIAAAgAAAAAAAAAAAAmwBoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-16T03:51:20.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T03:51:20.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "ConsumoEnergia.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Views\\Home\\ConsumoEnergia.cshtml",
               "RelativeDocumentMoniker": "Servicios_epm\\Views\\Home\\ConsumoEnergia.cshtml",
@@ -414,12 +410,11 @@
               "RelativeToolTip": "Servicios_epm\\Views\\Home\\ConsumoEnergia.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAmwB0AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-16T03:49:00.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T03:49:00.664Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "EliminarCliente.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Views\\Home\\EliminarCliente.cshtml",
               "RelativeDocumentMoniker": "Servicios_epm\\Views\\Home\\EliminarCliente.cshtml",
@@ -427,12 +422,11 @@
               "RelativeToolTip": "Servicios_epm\\Views\\Home\\EliminarCliente.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-16T03:50:44.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T03:50:44.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Datos.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Views\\Home\\Datos.cshtml",
               "RelativeDocumentMoniker": "Servicios_epm\\Views\\Home\\Datos.cshtml",
@@ -440,12 +434,11 @@
               "RelativeToolTip": "Servicios_epm\\Views\\Home\\Datos.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-16T03:50:09.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T03:50:09.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "ConsumoGas.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Views\\Home\\ConsumoGas.cshtml",
               "RelativeDocumentMoniker": "Servicios_epm\\Views\\Home\\ConsumoGas.cshtml",
@@ -453,12 +446,11 @@
               "RelativeToolTip": "Servicios_epm\\Views\\Home\\ConsumoGas.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAmwCAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-16T03:49:32.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T03:49:32.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "ConsumoAgua.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Views\\Home\\ConsumoAgua.cshtml",
               "RelativeDocumentMoniker": "Servicios_epm\\Views\\Home\\ConsumoAgua.cshtml",
@@ -466,12 +458,11 @@
               "RelativeToolTip": "Servicios_epm\\Views\\Home\\ConsumoAgua.cshtml",
               "ViewState": "AQIAAAsAAAAAAAAAAAAmwB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-16T03:48:17.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T03:48:17.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "ActualizarInformacion.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Views\\Home\\ActualizarInformacion.cshtml",
               "RelativeDocumentMoniker": "Servicios_epm\\Views\\Home\\ActualizarInformacion.cshtml",
@@ -479,12 +470,11 @@
               "RelativeToolTip": "Servicios_epm\\Views\\Home\\ActualizarInformacion.cshtml",
               "ViewState": "AQIAAEYAAAAAAAAAAAAmwFsAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-16T03:47:46.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T03:47:46.186Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Servicios_epm\\Views\\Shared\\Error.cshtml",
@@ -492,12 +482,11 @@
               "RelativeToolTip": "Servicios_epm\\Views\\Shared\\Error.cshtml",
               "ViewState": "AQIAAAQAAAAAAAAAAAAmwBkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-16T03:45:05.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T03:45:05.765Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Servicios_epm\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -505,12 +494,11 @@
               "RelativeToolTip": "Servicios_epm\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-16T03:44:34.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T03:44:34.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "Servicios_epm\\Views\\Shared\\_Layout.cshtml.css",
@@ -518,12 +506,11 @@
               "RelativeToolTip": "Servicios_epm\\Views\\Shared\\_Layout.cshtml.css",
               "ViewState": "AQIAABsAAAAAAAAAAAAYwDEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-16T03:43:53.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T03:43:53.211Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Servicios_epm\\Views\\Shared\\_Layout.cshtml",
@@ -531,12 +518,11 @@
               "RelativeToolTip": "Servicios_epm\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-16T03:42:15.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T03:42:15.612Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Servicios_epm\\Views\\_ViewStart.cshtml",
@@ -544,12 +530,11 @@
               "RelativeToolTip": "Servicios_epm\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-16T03:40:50.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T03:40:50.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Servicios_epm\\Views\\_ViewImports.cshtml",
@@ -557,21 +542,7 @@
               "RelativeToolTip": "Servicios_epm\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-16T03:40:22.246Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Servicios_epm\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\Codigo Limpio\\Proyecto\\Servicios_epm\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Servicios_epm\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T03:36:32.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T03:40:22.246Z"
             }
           ]
         }

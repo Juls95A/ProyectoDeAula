@@ -1,4 +1,4 @@
-﻿namespace ProyectoDeAula_JulianaAlvarezVioletaAgudelo.Models.Entidades;
+﻿
 using System.Text;
 using ProyectoDeAula_JulianaAlvarezVioletaAgudelo.Models.Entidades;
 
